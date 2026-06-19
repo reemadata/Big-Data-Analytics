@@ -95,11 +95,3 @@ Decision Tree Classification was used to predict high-value customers based on:
 - Real-time analytics
 - NLP for product description analysis
 
----
-
-## Author
-
-Reema Mohammed
-
-King Khalid University
-M.Sc. Data Science
